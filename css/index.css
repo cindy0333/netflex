@@ -280,8 +280,8 @@ footer{width: 100%;padding:50px 0}
 @media screen and (max-width:900px) and (max-height:480px){
 
 
-   #hero{height:auto}
-   .hero_wrap{height:auto}
+   #hero{height:inherit}
+   .hero_wrap{height:inherit;padding-bottom: 50px;}
    .site_info{font-size:12px}
 }
 
