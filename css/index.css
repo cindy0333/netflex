@@ -282,6 +282,7 @@ footer{width: 100%;padding:50px 0}
 
    #hero{height:auto}
    .hero_wrap{height:auto}
+   .site_info{font-size:12px}
 }
 
 @media screen and (max-width:600px){
