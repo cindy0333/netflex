@@ -52,7 +52,7 @@ function accOpen(clickNumber) {
 // aniIcon();
 
 
-var randomBgNumber = Math.floor(Math.random()*10);
+var randomBgNumber = Math.floor(Math.random()*7);
 
 document.getElementById('hero').style.backgroundImage = "url(img/bg_" + randomBgNumber + ".jpg";
 
